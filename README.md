@@ -150,5 +150,5 @@ in|within|after <duration> (in two minutes)
 ## License
 
 Duckling is [BSD-licensed](LICENSE).
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+ 
